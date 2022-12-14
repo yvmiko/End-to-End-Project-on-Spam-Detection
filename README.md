@@ -7,7 +7,11 @@ Requirements
 To run the code in this project, you will need the following libraries:
 
 scikit-learn
+
 matplotlib
+
 seaborn
+
 pandas
+
 numpy
